@@ -1,0 +1,26 @@
+
+.navbarcolor{
+    background-color: #1D1D21;
+}
+.color{
+     background: #2E2186;
+}
+
+
+
+.row{
+   display: flex;
+   justify-content: space-between;
+   
+  
+}
+.titolo{
+    color: rgba(128, 128, 128, 0.517);
+    font-style: oblique;
+   
+    
+    }
+    .carousel-inner{
+        height: 90vh;
+    }
+    
